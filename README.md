@@ -1,1 +1,1 @@
-Deployed link - https://stupendous-twilight-dbab8b.netlify.app/
+Deployed link - https://invoice-generating-app.netlify.app/
